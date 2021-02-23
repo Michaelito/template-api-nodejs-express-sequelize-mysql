@@ -143,6 +143,4 @@ Quando um bug em Produção é encontrado, os seguintes passos deverão ser exec
 
 ## Licença
 
-The [MIT License]() (MIT)
-
 Copyright 2021 - Michael Regis
